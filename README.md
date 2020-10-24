@@ -56,7 +56,8 @@ int x = in.nextInt();    // Scanner 类来获取用户的输入
 #### 6. 利用Scanner来获取用户的输入，跟if一起实现判断选课和退课的操作，利用while和break对于退课环节加深处理，只能退已选课程
 #### 7.最后把所有需要的信息输出出来
 ## 七、实验结果
-![实验结果](https://github.com/wccc33/experience/blob/main/9152688a240707276566631dc3cbd06.jpg)
+![实验结果](https://github.com/wccc33/experience/blob/main/1.png)
+![实验结果](https://github.com/wccc33/experience/blob/main/1.png)
 ## 八、编程感想
 #### 在选课退课环节对于if循环函数加深了了解，尤其是使用循环函数时一定要注意break函数的使用。
 #### 对于extends继承函数也有了初步的了解，继承可以让我们更加容易实验类的扩展。还有super关键字直接访问父类的属性，用toString更容易直观看出内容。
