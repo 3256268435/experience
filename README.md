@@ -57,7 +57,7 @@ int x = in.nextInt();    // Scanner 类来获取用户的输入
 #### 7.最后把所有需要的信息输出出来
 ## 七、实验结果
 ![实验结果](https://github.com/wccc33/experience/blob/main/1.png)
-![实验结果](https://github.com/wccc33/experience/blob/main/1.png)
+![实验结果](https://github.com/wccc33/experience/blob/main/2.png)
 ## 八、编程感想
 #### 在选课退课环节对于if循环函数加深了了解，尤其是使用循环函数时一定要注意break函数的使用。
 #### 对于extends继承函数也有了初步的了解，继承可以让我们更加容易实验类的扩展。还有super关键字直接访问父类的属性，用toString更容易直观看出内容。
